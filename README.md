@@ -1,4 +1,4 @@
-# Project Name: Projects-Two
+# Project Name: kasper
 
 This is a modern, responsive web project built as part of my frontend development journey. It showcases my ability to create clean, user-friendly interfaces with a focus on performance and responsive design.
 
@@ -12,7 +12,6 @@ In this project, I implemented several core frontend technologies and concepts:
 * **HTML5:** Semantic markup for better SEO and accessibility.
 * **CSS3:** Advanced styling including Flexbox/Grid for complex layouts.
 * **Responsive Design:** Using Media Queries to ensure the website looks great on all devices (Mobile, Tablet, and Desktop).
-* **JavaScript (ES6+):** Adding interactivity and dynamic functionality to the user interface.
 * **Web Optimization:** Ensuring fast loading times and clean, maintainable code architecture.
 * **Git & GitHub:** Version control and hosting via GitHub Pages.
 
